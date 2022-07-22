@@ -1,0 +1,13 @@
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\bin\Debug\BestOil_v2.exe.config
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\bin\Debug\BestOil_v2.exe
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\bin\Debug\BestOil_v2.pdb
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.csproj.AssemblyReference.cache
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.Properties.Resources.resources
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.Views.Main.MainView.resources
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.csproj.GenerateResource.cache
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.csproj.CoreCompileInputs.cache
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.exe
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.pdb
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.Views.Digits.DigitView.resources
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.Views.Main.ProductUC.ProductUC.resources
+C:\Users\01mur\source\repos\BestOil_v2\BestOil_v2\obj\Debug\BestOil_v2.Views.Main.OilUC.OilUC.resources
